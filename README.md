@@ -38,7 +38,7 @@
 <!--     <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack"></a> -->
 <!--     <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/sass%20-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a> -->
 <!--     <a href="https://mongodb.com"><img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a> -->
-<!--     <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a> -->
+    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <!--     <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a> -->
 <!--     <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?style=for-the-badge&logo=nginx"></a> -->
 <!--     <a href="https://apache.org"><img src="https://img.shields.io/badge/apache%20-%23D22128.svg?style=for-the-badge&logo=apache"></a> -->
@@ -55,5 +55,5 @@
     <a href="https://postcss.org"><img src="https://img.shields.io/badge/postcss-%23DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"></a>
     <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=threedotjs&logoColor=white"></a>
     <a href="https://electronjs.org"><img src="https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white"></a>
-</div> --> -->
+</div> -->
 <hr />
