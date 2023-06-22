@@ -10,10 +10,11 @@
     <img src="https://img.shields.io/badge/javascript%20-%23323330?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/html%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<!--     <img src="https://img.shields.io/badge/css%20-%231572B6?style=for-the-badge&logo=css3" /> -->
+    <img src="https://img.shields.io/badge/css%20-%231572B6?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black" /> 
 <img src="https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint">
 <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express">
   
     
 </div>
@@ -47,7 +48,7 @@
 <!--     <a href="https://apache.org"><img src="https://img.shields.io/badge/apache%20-%23D22128.svg?style=for-the-badge&logo=apache"></a> -->
 <!--     <a href="https://docker.com"><img src="https://img.shields.io/badge/docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a> -->
     <!-- Library Badges -->
-<!--     <a href="https://expressjs.com"><img src="https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express"></a>
+<!--    
     <a href="https://passportjs.org"><img src="https://img.shields.io/badge/passport-%2334E27A?style=for-the-badge&logo=passport&logoColor=white"></a>
     <a href="https://jquery.org"><img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery"></a>
     <a href="https://socket.io"><img src="https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socketdotio"></a>
