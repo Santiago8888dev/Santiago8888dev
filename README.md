@@ -1,5 +1,5 @@
-<h1 align="center">Santiago Matias</h1>
-<p>Remodelacion en curso ::</p>
+<h1 align="center">Santiago</h1>
+<p>Hello, my name is Santiago, I am an intern in I am a software developer, I like Javascript as well as its libraries, I currently use PHP as a programming language</p>
 <!-- 👋 Hi, I’m @
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -28,17 +28,16 @@
 <br />
 <hr />
 
-<!-- Social Badges 
+<!-- Social Badges -->
 <div align="center">
     <a href="https://discord.com/users/386940319666667521"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://twitter.com/LDVesper"><img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="mailto:ldamienvesper@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div> -->
+    <a href="mailto:santiagohuayhua8888@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div> 
 <hr />
 
 <div align="center">
-    <!-- Framework Badges 
-<!--     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a> -->
+    <!-- Framework Badges -->
+    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a> 
    
 <!--     <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack"></a> -->
 <!--     <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/sass%20-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a> -->
