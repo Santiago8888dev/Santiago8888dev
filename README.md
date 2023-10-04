@@ -30,7 +30,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-    <a href="https://discord.com/users/386940319666667521"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="mailto:santiagohuayhua8888@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div> 
 <hr />
