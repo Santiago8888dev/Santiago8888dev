@@ -1,5 +1,5 @@
 <h1 align="center">Santiago</h1>
-<p>Hello, my name is Santiago, I am an intern in I am a software developer, I like Javascript as well as its libraries, I currently use PHP as a programming language</p>
+<p>Hello, my name is Santiago Matias, I am an intern in I am a software developer, I like Javascript as well as its libraries, I currently use PHP as a programming language</p>
 <!-- 👋 Hi, I’m @
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
