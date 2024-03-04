@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h4 align="left">¡Hola 👋! Soy Santiago Huayhua, un entusiasta de JavaScript, TypeScript y sus amigos en el desarrollo web. Me apasiona construir aplicaciones dinámicas y modernas, aprovechando al máximo las capacidades de estos lenguajes. ¡Vamos a explorar el fascinante mundo del código juntos!</h2>
+
 
 ###
 
@@ -27,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img src="https://img.jsdelivr.com/github.com/laravel.png" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
@@ -40,3 +41,8 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
