@@ -1,4 +1,4 @@
-<h4 align="left">¡Hola 👋! Soy Santiago Huayhua, un entusiasta de JavaScript, TypeScript y sus amigos en el desarrollo web. Me apasiona construir aplicaciones dinámicas y modernas, aprovechando al máximo las capacidades de estos lenguajes. ¡Vamos a explorar el fascinante mundo del código juntos!</h2>
+<h4 align="left">Passionate about web development with JavaScript and its companions. Builder of dynamic and modern applications. Exploring code to discover new possibilities! 👨‍💻🌐</h2>
 
 
 ###
