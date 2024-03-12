@@ -1,4 +1,4 @@
-<h4 align="left">Passionate about web development with JavaScript and its companions. Builder of dynamic and modern applications. Exploring code to discover new possibilities! 👨‍💻🌐</h2>
+<h4 align="left">Hello, I'm Santiago, a lover of web development and browser games, I really like the world of javascript and its friends.👨‍💻🌐</h2>
 
 
 ###
