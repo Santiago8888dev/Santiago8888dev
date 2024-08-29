@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www3.minijuegosgratis.com/v3/games/thumbnails/222556_1.jpg"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfFjmCPCTgTI6NG5pGy1k0Zymw4BIE1Fd1A&s"  />
 
 ###
 
@@ -34,7 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+
 </div>
 
 ###
